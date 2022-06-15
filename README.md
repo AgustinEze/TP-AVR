@@ -1,4 +1,5 @@
 /*******************************************************
+
 This program was created by the CodeWizardAVR V3.28
 Automatic Program Generator
 � Copyright 1998-2016 Pavel Haiduc, HP InfoTech s.r.l.
@@ -10,7 +11,6 @@ Date    : 03/11/2016
 Author  : Seba&Agus
 Company :
 Comments:
-
 
 Chip type               : ATmega328
 Program type            : Application
